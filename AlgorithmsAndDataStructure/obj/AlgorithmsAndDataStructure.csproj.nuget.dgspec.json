@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure.csproj": {}
+    "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure.csproj": {
+    "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure.csproj",
+        "projectUniqueName": "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure.csproj",
         "projectName": "AlgorithmsAndDataStructure",
-        "projectPath": "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure.csproj",
+        "projectPath": "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure.csproj",
         "packagesPath": "C:\\Users\\Igal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\obj\\",
+        "outputPath": "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

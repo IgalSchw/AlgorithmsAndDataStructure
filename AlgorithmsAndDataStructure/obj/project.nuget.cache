@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Y2Gzkl9p3I7YY/Pb9dyolol+8rbTrsoJ7H73vLl6I2mGEVJZ+B5E3SDiwht+U3ce5THvD+S6KVMokFx9wXxBg==",
+  "dgSpecHash": "aSjPGguhm1nimf1AnwdMSVs0y1eRdgCM1bvdYXGYVKwEE+RGZoinNWXuE2YsRf6Eo0qlC5HCCW5PUCpd/VClYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure.csproj",
+  "projectFilePath": "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Igal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],
