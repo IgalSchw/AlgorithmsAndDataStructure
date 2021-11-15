@@ -77,9 +77,9 @@ namespace AlgoDataSructure
                 var res = 1;
 
                 if (isRecursionFuncTest)
-                    res = Fibonacci(testCase.N);
+                    res = Fibonacci(testCase.N); // recursion
                 else
-                    res = FibonacciSeries(testCase.N);
+                    res = FibonacciSeries(testCase.N); // iterate
 
 
                 if (res == testCase.ExpectedN)

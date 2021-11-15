@@ -10,3 +10,16 @@ C:\Users\Igal\Desktop\Алгоритмы и структуры данных\Algo
 C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.dll
 C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.pdb
 C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.genruntimeconfig.cache
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.exe
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.deps.json
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.runtimeconfig.json
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.runtimeconfig.dev.json
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.dll
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.pdb
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.csproj.AssemblyReference.cache
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.AssemblyInfoInputs.cache
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.AssemblyInfo.cs
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.dll
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.pdb
+C:\Users\Igal\Desktop\Алгоритмы и структуры данных\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\AlgorithmsAndDataStructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructure.genruntimeconfig.cache
