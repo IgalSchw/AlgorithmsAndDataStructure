@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ1_BlockSchema_AsymptoticDif_Recursion", "DZ1_BlockSchema_AsymptoticDif_Recursion\DZ1_BlockSchema_AsymptoticDif_Recursion.csproj", "{18FD21AD-34FF-4E85-9437-9FE1FAC2DBAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DZ1_BlockSchema_AsymptoticDif_Recursion", "DZ1_BlockSchema_AsymptoticDif_Recursion\DZ1_BlockSchema_AsymptoticDif_Recursion.csproj", "{18FD21AD-34FF-4E85-9437-9FE1FAC2DBAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ2_Arrays_Lists_SearchTypes", "DZ2_Arrays_Lists_SearchTypes\DZ2_Arrays_Lists_SearchTypes.csproj", "{7A36A05A-BBE4-4FEE-83C2-68766898C2A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DZ2_Arrays_Lists_SearchTypes", "DZ2_Arrays_Lists_SearchTypes\DZ2_Arrays_Lists_SearchTypes.csproj", "{7A36A05A-BBE4-4FEE-83C2-68766898C2A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DZ3_Class_Structure_Distance", "DZ3_Class_Structure_Distance\DZ3_Class_Structure_Distance.csproj", "{3C3C7A52-D837-4AB1-A626-3888B19CA98D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ4_Trees_HashTables", "DZ4_Trees_HashTables\DZ4_Trees_HashTables.csproj", "{19099311-7750-465C-83C5-91310EE49EE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{7A36A05A-BBE4-4FEE-83C2-68766898C2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A36A05A-BBE4-4FEE-83C2-68766898C2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A36A05A-BBE4-4FEE-83C2-68766898C2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C3C7A52-D837-4AB1-A626-3888B19CA98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3C7A52-D837-4AB1-A626-3888B19CA98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3C7A52-D837-4AB1-A626-3888B19CA98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3C7A52-D837-4AB1-A626-3888B19CA98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19099311-7750-465C-83C5-91310EE49EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19099311-7750-465C-83C5-91310EE49EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19099311-7750-465C-83C5-91310EE49EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19099311-7750-465C-83C5-91310EE49EE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
