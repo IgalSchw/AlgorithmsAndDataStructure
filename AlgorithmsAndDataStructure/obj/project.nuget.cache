@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aSjPGguhm1nimf1AnwdMSVs0y1eRdgCM1bvdYXGYVKwEE+RGZoinNWXuE2YsRf6Eo0qlC5HCCW5PUCpd/VClYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Igal\\Desktop\\Алгоритмы и структуры данных\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure\\AlgorithmsAndDataStructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
