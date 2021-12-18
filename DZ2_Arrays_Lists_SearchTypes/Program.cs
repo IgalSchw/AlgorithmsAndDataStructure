@@ -341,8 +341,6 @@ namespace AlgoDataSructure
             */
             #endregion
 
-
-
             #region double linked list
             DoubleLinkedList doubleLinkedList = new DoubleLinkedList();
             doubleLinkedList.AddFrontNode(10);
@@ -371,7 +369,6 @@ namespace AlgoDataSructure
             Console.WriteLine("Double linked list:");
             doubleLinkedList.PrintDoubleLinkedList();
             #endregion
-
 
             #region Binary search
             // 2. Двоичный поиск
@@ -412,7 +409,6 @@ namespace AlgoDataSructure
             TestBinarySearch(testcase1);
             TestBinarySearch(testcase2);
             #endregion
-
 
 
             #region type os Sorts
